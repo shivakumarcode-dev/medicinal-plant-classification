@@ -1,0 +1,227 @@
+{
+  "Alpinia Galanga": {
+    "scientific_name": "Alpinia galanga",
+    "family": "Zingiberaceae",
+    "description": "Rhizome used in traditional medicine and cooking.",
+    "uses": ["Digestive aid", "Anti-inflammatory", "Relieves nausea"],
+    "parts_used": "Rhizome",
+    "dosage": "As per recipe or extract",
+    "precautions": "Avoid high doses"
+  },
+  "Amaranthus Viridis": {
+    "scientific_name": "Amaranthus viridis",
+    "family": "Amaranthaceae",
+    "description": "Leafy vegetable with medicinal properties.",
+    "uses": ["Rich in vitamins", "Anti-inflammatory", "Helps digestion"],
+    "parts_used": "Leaves",
+    "dosage": "As food or juice",
+    "precautions": "Generally safe"
+  },
+  "Artocarpus Heterophyllus": {
+    "scientific_name": "Artocarpus heterophyllus",
+    "family": "Moraceae",
+    "description": "Tree producing jackfruit, used in food and medicine.",
+    "uses": ["Immune booster", "Energy source", "Rich in fiber"],
+    "parts_used": "Fruit, seeds, leaves",
+    "dosage": "As food or extract",
+    "precautions": "Allergic reactions possible"
+  },
+  "Azadirachta Indica": {
+    "scientific_name": "Azadirachta indica",
+    "family": "Meliaceae",
+    "description": "Evergreen tree with multiple medicinal uses.",
+    "uses": ["Antibacterial", "Skin treatment", "Immunity booster"],
+    "parts_used": "Leaves, bark",
+    "dosage": "Depends on form",
+    "precautions": "Avoid overdose"
+  },
+  "Basella Alba": {
+    "scientific_name": "Basella alba",
+    "family": "Basellaceae",
+    "description": "Climbing plant used as green leafy vegetable.",
+    "uses": ["Rich in iron", "Anti-inflammatory", "Skin health"],
+    "parts_used": "Leaves, stems",
+    "dosage": "As food",
+    "precautions": "Generally safe"
+  },
+  "Brassica Juncea": {
+    "scientific_name": "Brassica juncea",
+    "family": "Brassicaceae",
+    "description": "Indian mustard plant with edible leaves and seeds.",
+    "uses": ["Rich in antioxidants", "Improves digestion", "Anti-inflammatory"],
+    "parts_used": "Leaves, seeds",
+    "dosage": "As food",
+    "precautions": "Avoid excessive seeds intake"
+  },
+  "Carissa Carandas": {
+    "scientific_name": "Carissa carandas",
+    "family": "Apocynaceae",
+    "description": "Shrub bearing small edible fruits.",
+    "uses": ["Antioxidant", "Diabetes management", "Digestive aid"],
+    "parts_used": "Fruits, leaves",
+    "dosage": "As fruit or extract",
+    "precautions": "Moderation recommended"
+  },
+  "Citrus Limon": {
+    "scientific_name": "Citrus limon",
+    "family": "Rutaceae",
+    "description": "Popular citrus fruit with medicinal properties.",
+    "uses": ["Vitamin C source", "Digestion", "Immune booster"],
+    "parts_used": "Fruit, juice",
+    "dosage": "As fruit or juice",
+    "precautions": "Avoid excess in sensitive stomachs"
+  },
+  "Ficus Auriculata": {
+    "scientific_name": "Ficus auriculata",
+    "family": "Moraceae",
+    "description": "Also called Roxburgh fig, used in traditional medicine.",
+    "uses": ["Antioxidant", "Digestive aid", "Diabetes management"],
+    "parts_used": "Fruit, leaves",
+    "dosage": "As per usage",
+    "precautions": "Generally safe"
+  },
+  "Ficus Religiosa": {
+    "scientific_name": "Ficus religiosa",
+    "family": "Moraceae",
+    "description": "Sacred fig tree in India, used in Ayurveda.",
+    "uses": ["Respiratory issues", "Wound healing", "Stress relief"],
+    "parts_used": "Leaves, bark",
+    "dosage": "Depends on form",
+    "precautions": "Avoid overdose"
+  },
+  "Hibiscus Rosa-sinensis": {
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "family": "Malvaceae",
+    "description": "Common garden hibiscus, flowers used in medicine.",
+    "uses": ["Hair growth", "Skin care", "Antioxidant"],
+    "parts_used": "Flowers, leaves",
+    "dosage": "As decoction or extract",
+    "precautions": "Generally safe"
+  },
+  "Jasminum": {
+    "scientific_name": "Jasminum spp.",
+    "family": "Oleaceae",
+    "description": "Fragrant flowering plant used in perfumes and medicine.",
+    "uses": ["Stress relief", "Skin care", "Antioxidant"],
+    "parts_used": "Flowers, leaves",
+    "dosage": "As extract or infusion",
+    "precautions": "Avoid allergies"
+  },
+  "Mangifera Indica": {
+    "scientific_name": "Mangifera indica",
+    "family": "Anacardiaceae",
+    "description": "Mango tree, fruit used widely in food and medicine.",
+    "uses": ["Immune booster", "Digestive aid", "Rich in vitamins"],
+    "parts_used": "Fruit, leaves, bark",
+    "dosage": "As food or extract",
+    "precautions": "Allergic reactions possible"
+  },
+  "Mentha": {
+    "scientific_name": "Mentha",
+    "family": "Lamiaceae",
+    "description": "Aromatic herb used in cooking and medicine.",
+    "uses": ["Digestion", "Headache relief", "Freshness"],
+    "parts_used": "Leaves",
+    "dosage": "As tea, juice, or extract",
+    "precautions": "Excess may cause heartburn"
+  },
+  "Moringa Oleifera": {
+    "scientific_name": "Moringa oleifera",
+    "family": "Moringaceae",
+    "description": "Drumstick tree with highly nutritious leaves.",
+    "uses": ["Rich in vitamins", "Immune booster", "Anti-inflammatory"],
+    "parts_used": "Leaves, pods, seeds",
+    "dosage": "As powder or extract",
+    "precautions": "Avoid excessive consumption"
+  },
+  "Muntingia Calabura": {
+    "scientific_name": "Muntingia calabura",
+    "family": "Malvaceae",
+    "description": "Jamaica cherry, small edible fruits with medicinal use.",
+    "uses": ["Antioxidant", "Anti-inflammatory", "Digestive aid"],
+    "parts_used": "Fruits, leaves",
+    "dosage": "As food or extract",
+    "precautions": "Generally safe"
+  },
+  "Murraya Koenigii": {
+    "scientific_name": "Murraya koenigii",
+    "family": "Rutaceae",
+    "description": "Curry tree, aromatic leaves used in cuisine and medicine.",
+    "uses": ["Blood sugar management", "Digestive aid", "Anti-inflammatory"],
+    "parts_used": "Leaves",
+    "dosage": "As food or extract",
+    "precautions": "Generally safe"
+  },
+  "Nerium Oleander": {
+    "scientific_name": "Nerium oleander",
+    "family": "Apocynaceae",
+    "description": "Ornamental shrub, toxic in large doses.",
+    "uses": ["Used externally in traditional medicine"],
+    "parts_used": "Leaves, flowers",
+    "dosage": "Only as directed externally",
+    "precautions": "Highly toxic if ingested"
+  },
+  "Nyctanthes Arbor-tristis": {
+    "scientific_name": "Nyctanthes arbor-tristis",
+    "family": "Oleaceae",
+    "description": "Fragrant flowering tree, used in Ayurveda.",
+    "uses": ["Fever reduction", "Joint pain relief", "Skin diseases"],
+    "parts_used": "Flowers, leaves",
+    "dosage": "As infusion or paste",
+    "precautions": "Moderate use"
+  },
+  "Ocimum Tenuiflorum": {
+    "scientific_name": "Ocimum tenuiflorum",
+    "family": "Lamiaceae",
+    "description": "Holy basil, sacred in India, used widely in Ayurveda.",
+    "uses": ["Cold relief", "Respiratory health", "Stress reduction"],
+    "parts_used": "Leaves",
+    "dosage": "As tea or extract",
+    "precautions": "Pregnant women consult doctor"
+  },
+  "Piper Betle": {
+    "scientific_name": "Piper betle",
+    "family": "Piperaceae",
+    "description": "Aromatic leaves used for digestion and oral health.",
+    "uses": ["Aids digestion", "Oral hygiene", "Mild stimulant"],
+    "parts_used": "Leaves",
+    "dosage": "1–2 leaves chewed or in preparations",
+    "precautions": "Avoid excessive chewing with tobacco"
+  },
+  "Plectranthus Amboinicus": {
+    "scientific_name": "Plectranthus amboinicus",
+    "family": "Lamiaceae",
+    "description": "Aromatic herb used in cooking and medicine.",
+    "uses": ["Respiratory health", "Digestive aid", "Aromatic use"],
+    "parts_used": "Leaves",
+    "dosage": "As food or infusion",
+    "precautions": "Generally safe"
+  },
+  "Pongamia Pinnata": {
+    "scientific_name": "Pongamia pinnata",
+    "family": "Fabaceae",
+    "description": "Leguminous tree used for oil and medicinal properties.",
+    "uses": ["Skin treatment", "Anti-inflammatory", "Soil enrichment"],
+    "parts_used": "Seeds, leaves",
+    "dosage": "Topical use or consult doctor",
+    "precautions": "Do not ingest raw seeds"
+  },
+  "Psidium Guajava": {
+    "scientific_name": "Psidium guajava",
+    "family": "Myrtaceae",
+    "description": "Tropical fruit tree, high vitamin C and medicinal leaves.",
+    "uses": ["Digestive health", "Boosts immunity", "Anti-diarrheal"],
+    "parts_used": "Fruit, leaves",
+    "dosage": "Fruit: 100–200g daily; leaf decoction: 1 cup",
+    "precautions": "Generally safe"
+  },
+  "Punica Granatum": {
+    "scientific_name": "Punica granatum",
+    "family": "Lythraceae",
+    "description": "Fruit tree with antioxidant-rich seeds and medicinal uses.",
+    "uses": ["Heart health", "Digestive aid", "Rich in antioxidants"],
+    "parts_used": "Fruit, seeds, bark",
+    "dosage": "Fruit: 100–200g daily",
+    "precautions": "Avoid if allergic"
+  }
+}
