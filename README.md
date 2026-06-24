@@ -14,5 +14,4 @@ Final-year BCA project for medicinal plant identification.
 - TensorFlow
 
 ## Author
-Shiva Kumar# medicinal-plant-classification
-BCA Final Year Project - Medicinal Plant Classification System
+Shiva Kumar
