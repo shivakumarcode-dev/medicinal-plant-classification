@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5 {
 
 .stButton>button {
     background: #2d6a4f;
-    color: white;
+    color: black;
     border-radius: 10px;
     padding: 8px 20px;
 }
