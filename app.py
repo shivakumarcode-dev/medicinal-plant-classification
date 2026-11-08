@@ -248,7 +248,7 @@ with tab2:
             plant_key = find_plant_key(st.session_state["plant"])
             info = plant_info[plant_key]
 
-            with st.spinner("🤖 Thinking with tinyllama..."):
+            with st.spinner("🤖 Thinking with ollmma..."):
                 answer = ask_tinyllama(st.session_state["plant"], info, question)
 
             st.markdown("### 🤖 AI Answer")
